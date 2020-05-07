@@ -6,6 +6,15 @@
 #### 2. 달성 후 SNS 게재 -> [내가 게재하는 블로그](https://lazyowl.tistory.com/category/iOS/100Days%20of%20Swift)
 
 # project1
+- TableViews and image views
+- App bundles
+- FileManager
+- Typecasting
+- View controllers
+- Storyboards
+- Outlets
+- Auto Layout
+- UIImage
 # project2
 # project3
 # project4
