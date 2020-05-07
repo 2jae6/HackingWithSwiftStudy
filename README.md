@@ -16,6 +16,24 @@
 - Auto Layout
 - UIImage
 # project2
+- Interface Builder, Auto Layout, Outlets
+- @2x and @3x
+- Asset catalogs
+- UIButton
+- CALayer
+- UIColor
+- Random numbers
+- Actions
+- UIAlertController
 # project3
+- UIBarButtonItem
+- UIActivityViewController
 # project4
-
+- loadView()
+- WKWebView
+- Delegation
+- URL
+- URLRequest
+- UIToolbar
+- UIProgressView
+- KVO(Key-Value Observing)
