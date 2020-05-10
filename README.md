@@ -37,3 +37,11 @@
 - UIToolbar
 - UIProgressView
 - KVO(Key-Value Observing)
+
+# project5
+- Reloading table views
+- Inserting rows
+- Text input in alerts
+- String and UTF-16
+- Closures
+- NSRange
