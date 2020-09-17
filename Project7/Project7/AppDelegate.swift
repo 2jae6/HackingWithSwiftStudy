@@ -2,13 +2,12 @@
 //  AppDelegate.swift
 //  Project7
 //
-//  Created by 1 on 2020/07/16.
-//  Copyright © 2020 wook. All rights reserved.
+//  Created by 1 on 2020/09/17.
 //
 
 import UIKit
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
